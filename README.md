@@ -1,4 +1,5 @@
 # 🛡️ AI-Based Ransomware Detection Platform in Banking Infrastructure
+Demo model : https://ransomware-detection-api.onrender.com
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688.svg)](https://fastapi.tiangolo.com/)

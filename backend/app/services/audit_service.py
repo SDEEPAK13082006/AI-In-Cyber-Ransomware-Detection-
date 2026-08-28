@@ -11,7 +11,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import desc
 
 from backend.app.models.db.detection import DetectionRecord
-from backend.app.models.db.user import AuditLog
+from backend.app.models.db.audit import AuditLog
 
 class AuditService:
     @staticmethod
